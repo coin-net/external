@@ -1,0 +1,4 @@
+[submodule "defs/ethereum/tokens"]
+	path = defs/ethereum/tokens
+	url = https://github.com/coin-net/external.git
+	branch = ethereum-tokens
